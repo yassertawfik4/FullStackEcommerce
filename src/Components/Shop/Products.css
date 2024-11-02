@@ -1,0 +1,10 @@
+.productBg {
+  background-color: #008ecc;
+  height: 60vh !important;
+  width: 100%;
+}
+.footbg {
+  background-image: url("../../assets/shadowphoto.webp");
+  z-index: 0;
+  background-size: 100% 100%;
+}
